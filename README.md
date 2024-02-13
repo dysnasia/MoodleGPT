@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  As the title suggests, this tool is best utilized for courses outside your primary field of study or personal interests.
+  This tool is best utilized for courses outside your primary field of study or personal interests.
 </p>
 
 ## Author

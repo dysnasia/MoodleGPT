@@ -4,7 +4,6 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/dysnasia" target="_blank">
     <img alt="Twitter: dysnasia" src="https://img.shields.io/twitter/follow/dysnasia.svg?style=social" />
   </a>
 </p>
@@ -16,8 +15,5 @@ As the title suggests, this tool is best utilized for courses outside your prima
 ## Author
 
 👤 dysnasia
-
-* Twitter: [@dysnasia](https://twitter.com/dysnasia)
-* Github: [@dysnasia](https://github.com/dysnasia)
 
 Give a ⭐️ if this project helped you!

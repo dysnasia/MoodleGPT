@@ -20,6 +20,21 @@ To get started with MoodleGPT, follow these simple steps:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Follow the setup instructions in the documentation to integrate MoodleGPT with your Moodle instance.
 
+### Adding the Extension to Your Browser
+
+To add the MoodleGPT extension to your browser, follow these steps:
+
+- **Google Chrome**:
+  1. Open Google Chrome and navigate to `chrome://extensions/`.
+  2. Enable "Developer mode" by toggling the switch in the top-right corner.
+  3. Click on "Load unpacked" and select the `extension` folder from the cloned repository.
+  4. The MoodleGPT extension should now be added to your browser.
+
+- **Mozilla Firefox**:
+  1. Open Mozilla Firefox and navigate to `about:debugging#/runtime/this-firefox`.
+  2. Click on "Load Temporary Add-on" and select the `manifest.json` file from the `extension` folder in the cloned repository.
+  3. The MoodleGPT extension should now be added to your browser.
+
 ## 📖 Documentation
 
 Check out the [documentation](docs/) for detailed instructions on how to use MoodleGPT, including setup guides, usage examples, and troubleshooting tips.

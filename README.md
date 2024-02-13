@@ -9,7 +9,9 @@
   </a>
 </p>
 
-"Integrating ChatGPT into Moodle quizzes and exams"
+"Seamlessly Incorporating ChatGPT into Moodle Quizzes and Exams"
+
+As the title suggests, this tool is best utilized for courses outside your primary field of study or personal interests."
 
 ## Author
 

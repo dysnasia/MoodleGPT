@@ -10,7 +10,7 @@
 
 ## ℹ️ About
 
-MoodleGPT is a project aimed at enhancing the functionality of Moodle quizzes and exams by integrating ChatGPT, an AI language model, into the platform. This integration enables students and educators to leverage the power of natural language processing for generating questions, providing explanations, and enhancing learning experiences.
+MoodleGPT is a project aimed at enhancing the functionality of Moodle quizzes and exams by integrating ChatGPT, an AI language model, into the platform. This integration enables students and educators to leverage the power of natural language processing to generate questions, provide explanations, and enhance learning experiences.
 
 ## 🚀 Getting Started
 
